@@ -1,0 +1,14 @@
+.container{
+    flex-shrink: 0;
+    text-align: center;
+    margin-top: auto;
+    background-color: #343a40;
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.85);
+    padding: 20px 0;
+}
+.spanFooter{
+    font-size: 1.04rem;
+    color: #fff;
+    display: block;
+}
+
